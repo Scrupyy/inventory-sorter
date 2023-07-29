@@ -1,0 +1,11 @@
+main: de.scrupy.inventorysorter.InventorySorter
+name: Inventory-Sort
+version: '1.0'
+description: Inventory Sorter Plugin by Scrupy
+author: Scrupy
+website: scrupy.de
+api-version: 1.19
+
+commands:
+  sort:
+  sortc:
